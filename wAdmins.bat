@@ -1,0 +1,2 @@
+node wAdmins.js
+pause
